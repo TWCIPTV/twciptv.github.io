@@ -11,7 +11,7 @@ use our URL Link directly to your IPTV Player Like OTT NAVIGATOR, IPTV Player Pr
 
 IPTV Playlist Link : https://twciptv.github.io/TWC-IPTV.m3u
 
-Here is OTT Navigator v1.7 Mod for Andorid Device Download Link : https://twciptv.github.io/OTT Navigator IPTV_ v1.7.0.2.4 _.apk
+Here is OTT Navigator v1.7 Mod for Andorid Device Download Link : https://twciptv.github.io/OTT_Navigator_IPTV_ v1.7.0.2.4.apk
 
 
 Thank You!!! Have a Good Day
