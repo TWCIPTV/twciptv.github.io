@@ -12,4 +12,4 @@ use our URL Link directly to your IPTV Player Like OTT NAVIGATOR, IPTV Player Pr
 
 IPTV Playlist Link : https://twciptv.github.io/TWC-IPTV.m3u
 
-Thank Yous!!! Have a Good Day
+Thank You!!! Have a Good Day
