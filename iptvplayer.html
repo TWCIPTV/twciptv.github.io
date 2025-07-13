@@ -23,7 +23,7 @@ function showToast(message){const style=document.createElement('style');style.in
 document.querySelector('.toast-container').appendChild(toast);setTimeout(()=>{toast.remove()},4000)}
 function copyToClipboard(text,name){text=decodeURIComponent(text);navigator.clipboard.writeText(text.replace(/x123x/g,"'")).then(()=>{showToast(name+' command successfully copied to clipboard')}).catch(err=>{showToast('Failed to copy '+name+' download command: ',err)})}</script>
 
-
+<footer>
 <div id="ad-container">
  <script type="text/javascript">
 	atOptions = {
@@ -44,4 +44,5 @@ function copyToClipboard(text,name){text=decodeURIComponent(text);navigator.clip
     }, 10000); // Refresh every 30 seconds
   });
 </script>
+</footer>	
 <script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool@latest"></script>
