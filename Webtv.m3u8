@@ -116,41 +116,6 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 
 ________________________________________________________________________________________________________________________________
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
-#EXTINF:-1 group-logo="" tvg-id="194407" tvg-language="Tamil" tvg-logo="http://tamilwebcast.com/IPTV/TV Logo/AdithyaTV.jpg" group-title="TAMIL BY TWC",SNXT Adithya TV
-https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
-#EXTINF:-1 group-logo="" tvg-id="194390" tvg-language="Tamil" tvg-logo="http://tamilwebcast.com/IPTV/TV_Logo/ChuttiTV.jpg" group-title="TAMIL BY TWC",SNXT Chutti TV
-https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
-#EXTINF:-1 group-logo="" tvg-id="194406" tvg-language="Tamil" tvg-logo="http://tamilwebcast.com/IPTV/TV_Logo/SunMusicHD.jpg" group-title="TAMIL BY TWC",SNXT Sun Music HD
-https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=21ddc14c4da94c079d4f4c343ecdcd80:5701bee4ee9b625d0c8ed7de032a7478
-#EXTINF:-1 group-logo="" tvg-id="194410" tvg-language="Tamil" tvg-logo="http://tamilwebcast.com/IPTV/TV_Logo/SunMusic.jpg" group-title="TAMIL BY TWC",SNXT Sun Music
-https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=426117d115b04497b0b0d425e8095184:aa751ae8a41ac6f87141734163ffe3b2
-#EXTINF:-1 group-logo="" tvg-id="194409" tvg-language="Tamil" tvg-logo="http://tamilwebcast.com/IPTV/TV_Logo/ktv.jpg" group-title="TAMIL BY TWC",SNXT KTV
-https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
-#EXTINF:-1 group-logo="" tvg-id="194405" tvg-language="Tamil" tvg-logo="http://tamilwebcast.com/IPTV/TV_Logo/ktvhd.jpg" group-title="TAMIL BY TWC",SNXT KTV HD
-https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
-#EXTINF:-1 group-logo="hhttp://tamilwebcast.com/IPTV/" tvg-id="194391" tvg-language="Tamil" tvg-logo="http://tamilwebcast.com/IPTV/TV_Logo/sunlife.jpg" group-title="TAMIL BY TWC",SNXT Sun Life
-https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
-
 ________________________________________________________________________________________________________________________________
 
 #EXTINF:-1 tvg-id="0001" tvg-logo="http://tamilwebcast.com/IPTV/TV_Logo/thandionetv.jpeg" group-title="TAMIL BY TWC",Thanthi One
