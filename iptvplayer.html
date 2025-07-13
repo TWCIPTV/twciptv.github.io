@@ -22,27 +22,4 @@ function showToast(message){const style=document.createElement('style');style.in
 		  `;document.head.appendChild(style);const toast=document.createElement('div');toast.classList.add('toast');toast.textContent=message;const toastContainer=document.querySelector('.toast-container');if(!toastContainer){const newContainer=document.createElement('div');newContainer.classList.add('toast-container');document.body.appendChild(newContainer)}
 document.querySelector('.toast-container').appendChild(toast);setTimeout(()=>{toast.remove()},4000)}
 function copyToClipboard(text,name){text=decodeURIComponent(text);navigator.clipboard.writeText(text.replace(/x123x/g,"'")).then(()=>{showToast(name+' command successfully copied to clipboard')}).catch(err=>{showToast('Failed to copy '+name+' download command: ',err)})}</script>
-
-<footer>
-<div id="ad-container">
- <script type="text/javascript">
-	atOptions = {
-		'key' : 'd4b3baf17d32fd8e3432453fbfbf085c',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/d4b3baf17d32fd8e3432453fbfbf085c/invoke.js"></script>
-</div>
-
-<script>
-  $(document).ready(function() {
-    setInterval(function() {
-      $("#ad-container").load(location.href + " #ad-container > *"); // Reloads content of #ad-container
-    }, 10000); // Refresh every 30 seconds
-  });
-</script>
-</footer>	
 <script disable-devtool-auto="" src="https://cdn.jsdelivr.net/npm/disable-devtool@latest"></script>
