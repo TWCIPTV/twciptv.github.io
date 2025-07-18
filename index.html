@@ -225,7 +225,6 @@
       // Replace the below with an actual ad fetch call if needed
       const timestamp = new Date().toLocaleTimeString();
       adContainer.innerHTML = `<iframe src="https://twciptv.github.io/ad720x90.html?ts=${Date.now()}" 
-                                      width="300" height="250" 
                                       frameborder="0" 
                                       scrolling="no"></iframe>`;
     }
@@ -233,8 +232,8 @@
     // Initial load
     loadAd();
 
-    // Reload ad every 10 seconds
-    setInterval(loadAd, 10000); // 10000 ms = 30 seconds
+    // Reload ad every 25 seconds
+    setInterval(loadAd, 25000); // 25000 ms = 25 seconds
   </script>
 	
     <div class="iframe-container">
@@ -276,17 +275,15 @@
       // Simulate loading an ad from a server or ad network
       // Replace the below with an actual ad fetch call if needed
       const timestamp = new Date().toLocaleTimeString();
-      adContainer.innerHTML = `<iframe src="https://twciptv.github.io/ad-asyn.html?ts=${Date.now()}" 
-                                      width="100%" height="100%" 
-                                      frameborder="0" 
+      adContainer.innerHTML = `<iframe src="https://twciptv.github.io/ad-asyn.html?ts=${Date.now()}" frameborder="0" 
                                       scrolling="no"></iframe>`;
     }
 
     // Initial load
     loadAd();
 
-    // Reload ad every 10 seconds
-    setInterval(loadAd, 10000); // 10000 ms = 30 seconds
+    // Reload ad every 25 seconds
+    setInterval(loadAd, 25000); // 25000 ms = 25 seconds
   </script>
 	
 </body>
