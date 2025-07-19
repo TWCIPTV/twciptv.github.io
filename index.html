@@ -266,19 +266,14 @@
     function loadAd() {
       const adContainer = document.getElementById('ad-container-asyn');
 
-      // Simulate loading an ad from a server or ad network
-      // Replace the below with an actual ad fetch call if needed
       const timestamp = new Date().toLocaleTimeString();
       adContainer.innerHTML = `<iframe src="https://twciptv.github.io/ad-asyn.html?ts=${Date.now()}"  
                                       frameborder="0" 
                                       scrolling="no"></iframe>`;
     }
-
-    // Initial load
+  
     loadAd();
-
-    // Reload ad every 30 seconds
-    setInterval(loadAd, 10000); // 30000 ms = 30 seconds
+    setInterval(loadAd, 25000); 
   </script>
 	
 </body>
