@@ -296,6 +296,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="00010" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/murasu-white.png" group-title="TAMIL BY TWC",IN Murasu 
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
+#EXTINF:-1 tvg-id="00010" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/UTV" group-title="TAMIL BY TWC",U TV HD
+https://stream.galaxyott.live/live/utv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="00011" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/" group-title="TAMIL BY TWC",Sirippoli TV 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
 
@@ -319,7 +322,7 @@ https://livegeoroueu.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdn
 https://ca.streamjo.com/live/samugam.m3u8
 
 #EXTINF:-1 tvg-id="00019" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/vaanaviltv.png" group-title="TAMIL BY TWC",Vaanavil TV
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="00020" tvg-logo="https://twciptv.github.io/webtv/TV_LOGO/polimernews.png" group-title="TAMIL BY TWC",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
